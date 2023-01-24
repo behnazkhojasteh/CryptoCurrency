@@ -1,0 +1,72 @@
+body{
+    background-color: white;
+    
+  
+}
+
+
+.coin{
+  color:black;
+  font-size: medium;
+  position: static;
+}
+input{
+  color: aliceblue;
+}
+.table{
+  color: black;
+  width: 50%;
+  margin-left: 25%;
+}
+img{
+  width: 3rem;
+  height: 3rem;
+  
+}
+
+
+.inputplace {
+
+width: 50%;
+margin-left:25%;
+ margin-top: 30px;
+  
+
+text-align: center;
+}
+.thee{
+  background-color: white;
+  color: gray;
+}
+a{
+  color: goldenrod;
+  text-decoration: none;
+  
+}
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+button{
+  box-sizing: border-box;
+ margin-left: 0.5rem;
+ 
+}
+.chart_name{
+ 
+margin-left:1rem;
+
+  
+}
+.button_position{
+  margin-left: 85%;
+  margin-top: 5.25%;
+}
+.detail_position{
+  margin-left: 14rem;
+  
+}
+.title_position{
+  margin-left: 80%;
+  
+}
